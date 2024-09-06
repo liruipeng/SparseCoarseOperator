@@ -1,1 +1,1 @@
-# SparseCoarseOperator
+# sparse-coarse-operator
